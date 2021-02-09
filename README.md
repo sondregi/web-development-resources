@@ -1,5 +1,8 @@
 ## Web development resources
 
+### Resources
+[The MDN Web Docs](https://developer.mozilla.org/) - *Resources for developers, by developers.*
+
 ### Blogs
 * [LearnToCodeWithMe](https://learntocodewith.me/blog/)
 
