@@ -2,6 +2,7 @@
 
 ### Resources
 * [The MDN Web Docs](https://developer.mozilla.org/) - *Resources for developers, by developers.*
+* [CodePen](https://codepen.io/trending) - *Social development environment.*
 
 ### Blogs
 * [LearnToCodeWithMe](https://learntocodewith.me/blog/)
