@@ -14,4 +14,4 @@
 * [Unsplash](https://unsplash.com/) - *The internet’s source of freely-usable images.*
 
 ### Tools
-* [Coolors](https://coolors.co/)
+* [Coolors](https://coolors.co/) - *Color Palette Generator*
