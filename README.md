@@ -6,6 +6,9 @@
 * [dev.to](https://dev.to) - *Community of software developers getting together to help one another out.*
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - *A computer science portal for geeks*
 
+### JavaScript
+* [Learn JavaScript](https://learnjavascript.online/) - *The easiest way to  learn  &  practice  modern JavaScript*
+
 ### Blogs
 * [LearnToCodeWithMe](https://learntocodewith.me/blog/)
 
