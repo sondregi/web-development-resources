@@ -3,6 +3,8 @@
 ### Resources
 * [The MDN Web Docs](https://developer.mozilla.org/) - *Resources for developers, by developers.*
 * [CodePen](https://codepen.io/trending) - *Social development environment.*
+* [dev.to](https://dev.to) - *Community of software developers getting together to help one another out.*
+* [GeeksforGeeks](https://www.geeksforgeeks.org/) - *A computer science portal for geeks*
 
 ### Blogs
 * [LearnToCodeWithMe](https://learntocodewith.me/blog/)
