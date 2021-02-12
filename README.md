@@ -2,7 +2,7 @@
 
 ### Resources
 * [The MDN Web Docs](https://developer.mozilla.org/) - *Resources for developers, by developers.*
-* [CodePen](https://codepen.io/trending) - *Social development environment.*
+* [CodePen](https://codepen.io/) - *Social development environment.*
 * [dev.to](https://dev.to) - *Community of software developers getting together to help one another out.*
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - *A computer science portal for geeks*
 
@@ -20,3 +20,7 @@
 
 ### Tools
 * [Coolors](https://coolors.co/) - *Color Palette Generator*
+
+### Courses
+#### Free
+* [freeCodeCamp](https://www.freecodecamp.org/learn) - *Learn to Code - For Free*
